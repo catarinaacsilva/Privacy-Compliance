@@ -3,6 +3,11 @@
 
 ## Requirements
 
+Install requirements: ``pip install -r requirements``
+
+## How to Run
+
+Run Jupyter Notebook: ``jupyter notebook``
 
 
 ## Authors
